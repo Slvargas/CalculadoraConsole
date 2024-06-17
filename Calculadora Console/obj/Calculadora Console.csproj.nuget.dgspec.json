@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sérgio\\source\\repos\\Calculadora Console\\Calculadora Console\\Calculadora Console.csproj": {}
+    "C:\\Users\\Sérgio\\Documents\\GitHub\\CalculadoraConsole\\Calculadora Console\\Calculadora Console.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sérgio\\source\\repos\\Calculadora Console\\Calculadora Console\\Calculadora Console.csproj": {
+    "C:\\Users\\Sérgio\\Documents\\GitHub\\CalculadoraConsole\\Calculadora Console\\Calculadora Console.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sérgio\\source\\repos\\Calculadora Console\\Calculadora Console\\Calculadora Console.csproj",
+        "projectUniqueName": "C:\\Users\\Sérgio\\Documents\\GitHub\\CalculadoraConsole\\Calculadora Console\\Calculadora Console.csproj",
         "projectName": "Calculadora Console",
-        "projectPath": "C:\\Users\\Sérgio\\source\\repos\\Calculadora Console\\Calculadora Console\\Calculadora Console.csproj",
+        "projectPath": "C:\\Users\\Sérgio\\Documents\\GitHub\\CalculadoraConsole\\Calculadora Console\\Calculadora Console.csproj",
         "packagesPath": "C:\\Users\\Sérgio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sérgio\\source\\repos\\Calculadora Console\\Calculadora Console\\obj\\",
+        "outputPath": "C:\\Users\\Sérgio\\Documents\\GitHub\\CalculadoraConsole\\Calculadora Console\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
